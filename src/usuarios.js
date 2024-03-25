@@ -18,3 +18,5 @@ const usuarios = [
         ativo: true
     },
 ];
+
+export default usuarios;
